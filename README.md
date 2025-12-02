@@ -25,8 +25,18 @@ This lightweight Python command-line tool solves a common problem for security a
    - Eliminates the need to manually analyze each source
 
 
+
+
 3. **Exports results for audits and investigations**  
    - Clean JSON files compatible with SIEMs or custom investigation tools  
    - Easy to save, search, and share
 
 ## Check out Demo 
+
+
+
+https://github.com/user-attachments/assets/63511896-77c1-432d-8be9-fd416bcc3191
+
+
+
+
